@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\DateTimeHomework\DateTimeHomework\bin\Debug\netcoreapp3.1\DateTimeHomework.exe
+C:\Users\User\Desktop\DateTimeHomework\DateTimeHomework\bin\Debug\netcoreapp3.1\DateTimeHomework.deps.json
+C:\Users\User\Desktop\DateTimeHomework\DateTimeHomework\bin\Debug\netcoreapp3.1\DateTimeHomework.runtimeconfig.json
+C:\Users\User\Desktop\DateTimeHomework\DateTimeHomework\bin\Debug\netcoreapp3.1\DateTimeHomework.runtimeconfig.dev.json
+C:\Users\User\Desktop\DateTimeHomework\DateTimeHomework\bin\Debug\netcoreapp3.1\DateTimeHomework.dll
+C:\Users\User\Desktop\DateTimeHomework\DateTimeHomework\bin\Debug\netcoreapp3.1\DateTimeHomework.pdb
+C:\Users\User\Desktop\DateTimeHomework\DateTimeHomework\obj\Debug\netcoreapp3.1\DateTimeHomework.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\DateTimeHomework\DateTimeHomework\obj\Debug\netcoreapp3.1\DateTimeHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\DateTimeHomework\DateTimeHomework\obj\Debug\netcoreapp3.1\DateTimeHomework.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\DateTimeHomework\DateTimeHomework\obj\Debug\netcoreapp3.1\DateTimeHomework.AssemblyInfo.cs
+C:\Users\User\Desktop\DateTimeHomework\DateTimeHomework\obj\Debug\netcoreapp3.1\DateTimeHomework.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\DateTimeHomework\DateTimeHomework\obj\Debug\netcoreapp3.1\DateTimeHomework.dll
+C:\Users\User\Desktop\DateTimeHomework\DateTimeHomework\obj\Debug\netcoreapp3.1\DateTimeHomework.pdb
+C:\Users\User\Desktop\DateTimeHomework\DateTimeHomework\obj\Debug\netcoreapp3.1\DateTimeHomework.genruntimeconfig.cache
+C:\Users\User\Desktop\DateTimeHomework\DateTimeHomework\bin\Debug\netcoreapp3.1\ClassLibrary.dll
+C:\Users\User\Desktop\DateTimeHomework\DateTimeHomework\bin\Debug\netcoreapp3.1\ClassLibrary.pdb
+C:\Users\User\Desktop\DateTimeHomework\DateTimeHomework\obj\Debug\netcoreapp3.1\DateTimeHomework.csproj.CopyComplete
